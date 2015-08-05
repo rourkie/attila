@@ -889,11 +889,11 @@ img {
 	position: relative;
 	z-index: 10;
 	margin: 0 0 0.5em;
-	font-size: 2em;
-	line-height: 1em;
+	font-size: 4rem;
+	line-height: 1.1em;
 	font-weight: 700;
 	text-indent: -1px;
-	color: #000;
+	color: #444;
 }
 .has-cover .post-title {
 	color: #fff;

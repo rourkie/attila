@@ -2,7 +2,7 @@
    Includes
    ========================================================================== */
 
-@import url('//fonts.googleapis.com/css?family=Fira+Sans:400,500,700|Cardo:400,400italic,700');
+@import url('//fonts.googleapis.com/css?family=Lato:400,500,700|Cardo:400,400italic,700');
 @import url('normalize.css');
 @import url('icons.css');
 @import url('highlight.css');
@@ -34,7 +34,7 @@ html.menu-active,
 
 body {
 	font: 400 2em / 1.5em 'Cardo', serif;
-	color: #4d4d4d;
+	color: #444;
 	text-rendering: optimizeLegibility;
 	-webkit-font-smoothing: antialiased;
 	-moz-osx-font-smoothing: grayscale;
@@ -47,7 +47,7 @@ body {
     text-shadow: none;
 }
 a {
-	color: #212226;
+	color: #1EAEDB;
 	text-decoration: none;
 	font-weight: 400;
 	-webkit-transition: all ease-out 0.2s;
@@ -55,18 +55,18 @@ a {
 }
 a:hover,
 a:focus {
-	color: #000;
+	color: #7DC36B;
 }
 
 h1, h2, h3, h4, h5, h6 {
-	font-family: 'Fira Sans', sans-serif;
+	font-family: 'Lato', sans-serif;
 	text-rendering: optimizeLegibility;
-	color: #000;
+	color: #444;
 }
 
 h1 {
-	font-size: 2em;
-	line-height: 1em;
+	font-size: 6rem;
+	line-height: 1.2rem;
 	text-indent: -1px;
 	margin: 2em 0 -0.5em;
 }

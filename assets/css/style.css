@@ -507,8 +507,8 @@ img {
 }
 .nav-button a:hover,
 .nav-button a:focus {
-	color: #f26a3d;
-	border-color: #f26a3d;
+	color: #7DC36B;
+	border-color: #7DC36B;
 }
 .cover-active .nav-button a {
 	color: #fff;
@@ -581,7 +581,7 @@ img {
 #menu .close-button:focus {
 	-webkit-transform: rotate(180deg);
 	transform: rotate(180deg);
-	border-color: #f26a3d;
+	border-color: #7DC36B;
 }
 #menu .close-button:after,
 #menu .close-button:before {
@@ -600,7 +600,7 @@ img {
 #menu .close-button:hover:before,
 #menu .close-button:focus:after,
 #menu .close-button:focus:before {
-	background: #f26a3d;
+	background: #7DC36B;
 }
 #menu .close-button:after {
 	-webkit-transform: rotate(45deg);
@@ -657,7 +657,7 @@ img {
 	height: 100%;
 	left: 0;
 	top: 0;
-	background: #f26a3d;
+	background: #7DC36B;
 }
 #menu li a {
 	display: block;
@@ -705,8 +705,8 @@ img {
 	display: block;
 	width: 0;
 	height: 1px;
-	background: #f26a3d;
-	box-shadow: 0 0 1px #f26a3d, 0 0 3px #f26a3d;
+	background: #7DC36B;
+	box-shadow: 0 0 1px #7DC36B, 0 0 3px #7DC36B;
 }
 
 /* ==========================================================================
@@ -931,11 +931,11 @@ img {
 	margin: 0;
 }
 .post-content a {
-	border-bottom: 1px solid #f26a3d;
+	border-bottom: 1px solid #7DC36B;
 }
 .post-content a:hover,
 .post-content a:focus {
-	color: #f26a3d;
+	color: #7DC36B;
 }
 .post-content img,
 .post-content .fluid-width-video-wrapper {
@@ -1004,13 +1004,13 @@ img {
 	margin: 0 0.333em 0.666em 0;
 	padding: 0.575em 1em;
 	background: #fff;
-	border: 1px solid #f26a3d;
+	border: 1px solid #7DC36B;
 	font-size: 0.75em;
 	font-weight: 500;
 	line-height: 1.333em;
 	text-align: center;
 	text-decoration: none;
-	color: #f26a3d;
+	color: #7DC36B;
 	-webkit-border-radius: 2em;
 	border-radius: 2em;
 	-webkit-transition: all ease 0.3s;
@@ -1020,7 +1020,7 @@ img {
 }
 .post-tags a:hover,
 .post-tags a:focus {
-	background: #f26a3d;
+	background: #7DC36B;
 	color: #fff;
 }
 .post-author {
@@ -1134,8 +1134,8 @@ img {
 }
 .post-comments-activate:hover,
 .post-comments-activate:focus {
-	color: #f26a3d;
-	border-color: #f26a3d;
+	color: #7DC36B;
+	border-color: #7DC36B;
 }
 .activated .post-comments-activate {
 	display: none;
@@ -1203,7 +1203,7 @@ img {
 }
 .post-nav a:hover i,
 .post-nav a:focus i {
-	color: #f26a3d;
+	color: #7DC36B;
 }
 .post-nav-title {
 	margin: 0 0 0.5em;
@@ -1268,8 +1268,8 @@ img {
 }
 .pagination a:hover,
 .pagination a:focus {
-	color: #f26a3d;
-	border-color: #f26a3d;
+	color: #7DC36B;
+	border-color: #7DC36B;
 }
 .pagination .pagination-label {
 	position: relative;
